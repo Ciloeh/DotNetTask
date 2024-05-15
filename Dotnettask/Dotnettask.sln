@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnettask", "Dotnettask.csproj", "{A54A91CC-CD19-4F83-8AF1-31D610855DFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetTaskUnitTest", "..\DotnetTaskUnitTest\DotnetTaskUnitTest.csproj", "{52891880-76F8-4A77-8E84-16BC7D622BF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A54A91CC-CD19-4F83-8AF1-31D610855DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A54A91CC-CD19-4F83-8AF1-31D610855DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A54A91CC-CD19-4F83-8AF1-31D610855DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A54A91CC-CD19-4F83-8AF1-31D610855DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52891880-76F8-4A77-8E84-16BC7D622BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52891880-76F8-4A77-8E84-16BC7D622BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52891880-76F8-4A77-8E84-16BC7D622BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52891880-76F8-4A77-8E84-16BC7D622BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8532A4AF-0179-48BE-B88D-8C107CE73D5B}
+	EndGlobalSection
+EndGlobal
